@@ -17,6 +17,8 @@ It sorts the categories and the artists in the category.
 
 Enjoy.
 
+Please note - I am not a programmer. The code was created by an LLM. It just works.
+
 I hope Deezer will implement categories and this script will not be neccesary. 
 
 Hanan
