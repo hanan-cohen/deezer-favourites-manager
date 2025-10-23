@@ -15,6 +15,8 @@ The script reads the file deezer-favourites.html (if it exists) or creates it if
 
 It sorts the categories and the artists in the category.
 
+The UI doesn't enable editing the categories etc. If you want to change the data, just edit the html file and run the script again.
+
 Enjoy.
 
 Please note - I am not a programmer. The code was created by an LLM. It just works.
